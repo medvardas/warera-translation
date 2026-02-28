@@ -102,19 +102,19 @@ msgstr "{0}% من المُستثمر"
 
 #: src/components/_military/battle/BattleName.tsx:141
 msgid "{battleIcon}Resistance battle for {regionName} {score}"
-msgstr ""
+msgstr "{battleIcon}معركة مقاومة من أجل {regionName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:146
 msgid "{battleIcon}Revolution battle {score}"
-msgstr ""
+msgstr "{battleIcon}معركة الثورة {score}"
 
 #: src/components/_military/battle/BattleName.tsx:151
 msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr ""
+msgstr "{battleIcon}معركة بطولة من أجل {tournamentName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:136
 msgid "{battleIcon}War battle for {regionName} {score}"
-msgstr ""
+msgstr "{battleIcon}معركة حرب من أجل {regionName} {score}"
 
 #: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
@@ -167,7 +167,7 @@ msgstr "احتل <0/> المنطقة في <1/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:74
 msgid "<0/> created the conversation"
-msgstr ""
+msgstr "قام <0/> بإنشاء المحادثة"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:818
 msgid "<0/> defended in <1/>"
@@ -186,7 +186,7 @@ msgstr "قام <0/> بطردك من وظيفتك بأجر <1>{0}</1> في <2/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:45
 msgid "<0/> gifted a sub to <1/>"
-msgstr ""
+msgstr "أهدى <0/> اشتراكاً لـ <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1161
 msgid "<0/> gifted you a premium subscription!"
@@ -236,7 +236,7 @@ msgstr "يتمرد <0/> في <1/> ضد بلدك"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:16
 msgid "<0/> joined the conversation"
-msgstr ""
+msgstr "انضم <0/> إلى المحادثة"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:687
 msgid "<0/> joined the game with your referral link!"
@@ -249,7 +249,7 @@ msgstr "انضم <0/> إلى شركتك <1/> بأجر <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:34
 msgid "<0/> kicked <1/> from the conversation"
-msgstr ""
+msgstr "طرد <0/>:-  <1/> من المحادثة"
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
 #: src/components/_user/notification/notification.frontConfig.tsx:532
@@ -258,7 +258,7 @@ msgstr "ترك <0/> وظيفته في شركتك {0}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:25
 msgid "<0/> left the conversation"
-msgstr ""
+msgstr "غادر <0/> المحادثة"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:902
 msgid "<0/> liked your article <1/>"
@@ -313,13 +313,13 @@ msgstr "تم ترشيح <0/> كـ <1>{0}</1>"
 #. placeholder {0}: data.roundNumber
 #: src/components/_political/message/systemMessage.frontConfig.tsx:55
 msgid "<0/> won round {0}"
-msgstr ""
+msgstr "فاز <0/> بالجولة {0}"
 
 #. placeholder {0}: data.attackerWonRoundsCount
 #. placeholder {1}: data.defenderWonRoundsCount
 #: src/components/_political/message/systemMessage.frontConfig.tsx:64
 msgid "<0/> won the battle ({0}-{1})"
-msgstr ""
+msgstr "<0/> فاز بالمعركة ({0}-{1})"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:350
 msgid "<0/> won the primary election in <1/> and can now run for president!"
@@ -947,7 +947,7 @@ msgstr "مقبول"
 
 #: src/components/_military/battle/BattleHeader.tsx:161
 msgid "Access war"
-msgstr ""
+msgstr "الدخول إلى الحرب"
 
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:164
@@ -1323,7 +1323,7 @@ msgstr "متوازن - لا توجد معدلات"
 
 #: src/pages/user/[userId]/bans.tsx:288
 msgid "Ban History"
-msgstr ""
+msgstr "سجل الحظر"
 
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
@@ -1493,7 +1493,7 @@ msgstr "بناء الوحدة العسكرية"
 
 #: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
-msgstr ""
+msgstr "شراء"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -2852,7 +2852,7 @@ msgstr "تم إهداؤه"
 
 #: src/components/_user/user/UserDropdown.tsx:333
 msgid "Give badge"
-msgstr ""
+msgstr "مُنح وسام"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Give money"
@@ -4666,7 +4666,7 @@ msgstr "الوصفة"
 
 #: src/components/_other/shop/SkinPackModal.tsx:232
 msgid "Recipient"
-msgstr ""
+msgstr "المستلم"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -5052,11 +5052,11 @@ msgstr "ابحث عن دول..."
 
 #: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
-msgstr ""
+msgstr "ابحث عن اسم المستخدم المستلم..."
 
 #: src/components/_political/government/NominateForm.tsx:47
 msgid "Search username to nominate..."
-msgstr ""
+msgstr "ابحث عن اسم مستخدم لترشيحه..."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
@@ -5113,7 +5113,7 @@ msgstr "اعمل ذاتياً <0>{count}</0> مرات في شركاتك"
 
 #: src/pages/user/[userId]/bans.tsx:206
 msgid "Sell"
-msgstr ""
+msgstr "بيع"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5268,7 +5268,7 @@ msgstr "عرض المزيد"
 
 #: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
-msgstr ""
+msgstr "إظهار المقالات ذات التقييم الإيجابي فقط (التقييم >= -5)"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -6157,7 +6157,7 @@ msgstr "نائب الرئيس"
 
 #: src/components/_military/battle/BattleHeader.tsx:168
 msgid "View on map"
-msgstr ""
+msgstr "عرض على الخريطة"
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
