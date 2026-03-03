@@ -5,12 +5,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
-"Language: uk\n"
-"Project-Id-Version: \n"
+"Language: zh-TW\n"
+"Project-Id-Version: 1.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Last-Translator: muyueouo\n"
+"Language-Team: War Era Taiwan\n"
 "Plural-Forms: \n"
 
 #. placeholder {0}: user.data.mute.reason
@@ -1323,7 +1323,7 @@ msgstr "平衡 - 無調整"
 
 #: src/pages/user/[userId]/bans.tsx:288
 msgid "Ban History"
-msgstr ""
+msgstr "停權歷史"
 
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
@@ -1493,7 +1493,7 @@ msgstr "建造一個軍團"
 
 #: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
-msgstr ""
+msgstr "購買"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -1774,7 +1774,7 @@ msgstr "指揮官"
 #: src/components/_user/notification/notification.frontConfig.tsx:1630
 #: src/components/_user/notification/notification.frontConfig.tsx:1821
 msgid "Commission earned"
-msgstr ""
+msgstr "已賺取傭金"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
@@ -2857,7 +2857,7 @@ msgstr "已贈送"
 
 #: src/components/_user/user/UserDropdown.tsx:333
 msgid "Give badge"
-msgstr ""
+msgstr "給予徽章"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Give money"
@@ -5118,7 +5118,7 @@ msgstr "在自己公司工作 <0>{count}</0> 次"
 
 #: src/pages/user/[userId]/bans.tsx:206
 msgid "Sell"
-msgstr ""
+msgstr "賣出"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5273,7 +5273,7 @@ msgstr "顯示更多"
 
 #: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
-msgstr ""
+msgstr "只顯示正分數文章 (分數 >= -5)"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -5681,63 +5681,63 @@ msgstr "該來生產了！"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
-msgstr ""
+msgstr "Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Tiny Pixel Ammo"
-msgstr ""
+msgstr "Tiny Pixel Ammo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Boots"
-msgstr ""
+msgstr "Tiny Pixel Boots"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Chest"
-msgstr ""
+msgstr "Tiny Pixel Chest"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Gloves"
-msgstr ""
+msgstr "Tiny Pixel Gloves"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gun"
-msgstr ""
+msgstr "Tiny Pixel Gun"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Heavy Ammo"
-msgstr ""
+msgstr "Tiny Pixel Heavy Ammo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Helmet"
-msgstr ""
+msgstr "Tiny Pixel Helmet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Jet"
-msgstr ""
+msgstr "Tiny Pixel Jet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Light Ammo"
-msgstr ""
+msgstr "Tiny Pixel Light Ammo"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:16
 msgid "Tiny Pixel Pack"
-msgstr ""
+msgstr "Tiny Pixel Pack"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Pants"
-msgstr ""
+msgstr "Tiny Pixel Pants"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Rifle"
-msgstr ""
+msgstr "Tiny Pixel Rifle"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Sniper"
-msgstr ""
+msgstr "Tiny Pixel Sniper"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Tank"
-msgstr ""
+msgstr "Tiny Pixel Tank"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:288
 msgid "Tip <0>{count}</0> articles"
@@ -6492,15 +6492,15 @@ msgstr "你沒有權限瀏覽申請。"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1632
 msgid "You earned gems from a banner sale!"
-msgstr ""
+msgstr "你因橫幅售出獲得了寶石"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1823
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
-msgstr ""
+msgstr "你因 \"{skinTitle}\" 售出獲得了寶石！"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1827
 msgid "You earned gems from a skin pack sale!"
-msgstr ""
+msgstr "你因造型組合包獲得了寶石！"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:874
 msgid "You feel healthy, the debuff effect no longer affects you."
